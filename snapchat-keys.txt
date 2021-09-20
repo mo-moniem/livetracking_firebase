@@ -1,0 +1,8 @@
+SNAPCHAT_CLIENT_ID=333a4cac-ef98-4b77-9905-eed0087f97a2
+SNAPCHAT_CLIENT_SECRET=ZO8r-a8jkMBG-IlR6xOv4HuYh_SpOr6CFvjBKpw3aXE
+
+
+---------------------------------- production --------------------------
+
+SNAPCHAT_CLIENT_ID=03f902f7-327b-4339-a03b-1ed423e7d5ed
+SNAPCHAT_CLIENT_SECRET=ziJ9ubxpc3vxTh6UsfytntUjjZyG9o85GVwOJoeLRu8
