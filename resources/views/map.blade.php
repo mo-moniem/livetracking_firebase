@@ -155,7 +155,8 @@
             });
             flightPath.setMap(map);
             const rootRef = database.ref('influencers')
-            rootRef.child(0).set({
+            const autoId = rootRef.push().key;
+            rootRef.child(autoId).set({
                 location:flightPlanCoordinates
             })
         }
